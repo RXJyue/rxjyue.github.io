@@ -34,18 +34,18 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: my posts
+    - title: content
       url: /posts
-      key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
+      key_trigger: Featured
+    #- title: series
+      #url: /series
+      #key_trigger: 3
     - title: tags
       url: /tags
       key_trigger: 4
-    - title: about me
+    - title: me
       url: /about
-      key_trigger: 5
+      key_trigger: About
   section_2:
     - title: github
       url: http://www.github.com/victorvoid
