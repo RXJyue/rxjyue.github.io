@@ -13,7 +13,8 @@ github_username:  loremipsum
 #discord_invite: cj5rg # Example: Discord server invite gg extension like in 'https://discord.gg/cj5rg'
 #linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 #disqus_username: loremipsum
-profile_picture: https://as2.ftcdn.net/v2/jpg/04/83/90/95/1000_F_483909569_OI4LKNeFgHwvvVju60fejLd9gj43dIcd.jpg
+#profile_picture: https://as2.ftcdn.net/v2/jpg/04/83/90/95/1000_F_483909569_OI4LKNeFgHwvvVju60fejLd9gj43dIcd.jpg
+profile_picture: https://dribbble.com/shots/4362806-PixelArt-01-Kitty-new-profile/attachments/10348709?mode=media
 
 # Build settings
 markdown: kramdown
