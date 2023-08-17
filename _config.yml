@@ -1,18 +1,18 @@
 # Site settings
-title: Wythe Space
+title: Explore
 description: "Welcome to Wythe space."
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "rxjyue.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: Wythe
+username: Wythe Space
 user_title: Wythe - FrontEnd
-email: zj197xx@gamil.com
-twitter_username: loremipsum
+email: zj107xx@gamil.com
+#twitter_username: loremipsum
 github_username:  loremipsum
 #discord_invite: cj5rg # Example: Discord server invite gg extension like in 'https://discord.gg/cj5rg'
 #linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
+#disqus_username: loremipsum
 profile_picture: https://as2.ftcdn.net/v2/jpg/04/83/90/95/1000_F_483909569_OI4LKNeFgHwvvVju60fejLd9gj43dIcd.jpg
 
 # Build settings
