@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    display:flex;
+    margin:auto;
 }
 *, *::before, *::after {
 	box-sizing: border-box;
