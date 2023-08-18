@@ -877,14 +877,10 @@ html, body {
 }
 
 .header-site .person {
-    border-radius: 100%
-}
-.person img{
-    width: 140px;
-    height: 140px;
-    border-radius: 10px
-    overflow: hidden;
-    padding: 1rem;
+    border-radius: 10px;
+    position: relative;
+    max-width:300px;
+    height: auto;
 
     &::before {
 		content: '';
@@ -912,6 +908,11 @@ html, body {
 		border-radius: 5px;
 	}	
 }
+.header-site .person img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    }
 
 .header-site .recent {
     *zoom: 1;
