@@ -77,10 +77,6 @@ sub {
 
 img {
     display: block;
-    max-width:100%;
-    height:auto;
-    //text-align: center;	
-    //border: 0
 }
 
 svg:not(:root) {
