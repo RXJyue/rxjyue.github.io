@@ -877,8 +877,9 @@ html, body {
 }
 
 .header-site .person img{
-    max-height:100%;
-    max-width:100%;
+	width: 130px;
+	height:auto;
+	border-radius:100%;
 }
 
 .header-site .recent {
