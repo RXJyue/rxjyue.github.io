@@ -76,7 +76,7 @@ sub {
 }
 
 img {
-    display: block;
+    border:0
 }
 
 svg:not(:root) {
@@ -875,7 +875,7 @@ html, body {
 .header-site .person img{
 	width: 130px;
 	height:auto;
-	border-radius:100%;
+	border-radius:10px;
 }
 
 .header-site .recent {
