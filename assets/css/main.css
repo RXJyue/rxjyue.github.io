@@ -79,7 +79,7 @@ img {
     display: block;
     max-width:100%;
     height:auto;
-    text-align: center;	
+    //text-align: center;	
     //border: 0
 }
 
@@ -887,6 +887,7 @@ html, body {
     margin: 0;
     overflow: hidden;
     padding: 1rem;
+    text-align: center
 
     &::before {
 		content: '';
