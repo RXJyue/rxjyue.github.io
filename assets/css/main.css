@@ -877,16 +877,12 @@ html, body {
 }
 
 .header-site .person {
-    width: 400px;
-    height: 400px;
     border-radius: 100%
-    overflow: auto;
 }
 .person img{
-    width: 300px;
-    height: 300px;
+    width: 140px;
+    height: 140px;
     border-radius: 10px
-    margin: 0;
     overflow: hidden;
     padding: 1rem;
 
