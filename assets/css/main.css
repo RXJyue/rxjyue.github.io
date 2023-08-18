@@ -876,10 +876,9 @@ html, body {
     list-style-type: none
 }
 
-.header-site .person {
-    border-radius: 10px;
-    height:300px;
-    width: auto;
+.header-site .person img{
+    max-height:100%;
+    max-width:100%;
 }
 
 .header-site .recent {
