@@ -880,14 +880,13 @@ html, body {
     list-style-type: none
 }
 
-.header-site .person img {
+.header-site .person {
     width: 300px;
     height: 300px;
     border-radius: 10px
     margin: 0;
     overflow: hidden;
     padding: 1rem;
-    text-align: center
 
     &::before {
 		content: '';
