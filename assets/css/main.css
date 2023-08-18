@@ -874,7 +874,35 @@ html, body {
 .header-site .person img {
     width: 130px;
     height: 130px;
-    border-radius: 100%
+    border-radius: 10px
+	overflow: hidden;
+    padding: 2rem;
+
+    &::before {
+		content: '';
+		position: absolute;
+		z-index: -2;
+		left: -50%;
+		top: -50%;
+		width: 200%;
+		height: 200%;
+		background-color: #252b48;
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		background-image: conic-gradient(transparent, rgba(158, 154, 165, 1), transparent 30%);
+		animation: rotate 2s linear infinite;    
+}
+    &::after {
+		content: '';
+		position: absolute;
+		z-index: -1;
+		left: 6px;
+		top: 6px;
+		width: calc(100% - 12px);
+		height: calc(100% - 12px);
+		background: #000;
+		border-radius: 5px;
+	}	
 }
 
 .header-site .recent {
