@@ -1557,7 +1557,6 @@ pre span {
     padding: 20px;
     background-color: #2f2f33;
     color: #c1c2c3;
-    margin: 0;
     margin-bottom: 30px
 }
 
@@ -1598,7 +1597,7 @@ pre span {
 }
 
 .highlight .err, .highlight .g, .highlight .l, .highlight .n, .highlight .x, .highlight .p, .highlight .ge, .highlight .gp, .highlight .gs, .highlight .gt, .highlight .ld, .highlight .s, .highlight .nc, .highlight .nd, .highlight .ne, .highlight .nl, .highlight .nn, .highlight .nx, .highlight .py, .highlight .ow, .highlight .w, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .se, .highlight .sh, .highlight .si, .highlight .sx, .highlight .sr, .highlight .s1, .highlight .ss, .highlight .bp {
-    color: #c1c2c3
+    color: ##435334
 }
 
 .highlight .k, .highlight .kc, .highlight .kd, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .nt {
@@ -1606,7 +1605,7 @@ pre span {
 }
 
 .highlight .cp, .highlight .gh, .highlight .gu, .highlight .na, .highlight .nf {
-    color: #e9a94b
+    color: #A2678A
 }
 
 .highlight .m, .highlight .nb, .highlight .no, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo, .highlight .il {
@@ -1746,7 +1745,6 @@ pre span {
 }
 
 footer {
-    background: #F1F0E8;
     padding: 1.563rem 0;
     margin-top: 100px;
     clear: both;
@@ -1756,7 +1754,6 @@ footer p {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-style: normal;
-    color: #fff;
     text-align: center;
     margin: 0
 }
