@@ -1172,14 +1172,14 @@ html, body {
 
 @media only screen and (min-width: 37.5rem) {
     .post h1 {
-        font-size: 2.5rem
+        font-size: 2rem
     }
 }
 
 .post h1:before {
     content: "#";
     color: #adc4ce;
-    font-size: 2.5rem
+    font-size: 2rem
 }
 
 .post .time {
