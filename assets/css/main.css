@@ -376,8 +376,7 @@ aside ul {
 }
 
 aside #topmenu {
-    background: conic-gradient(from 3.1416rad at 100% 94%, #99cc66 -10%, #e66465);
-    border: 2px solid #f1f0e8;
+
     *zoom: 1;
 }
 
@@ -515,13 +514,12 @@ aside #topmenu ul li:first-child span {
 }
 
 aside #topmenu ul li:nth-child(3) {
-    background: #EEE0C9;
     padding-right: 30px;
     padding-left: 30px;
 }
 
 aside #topmenu ul li:nth-child(3) span {
-    color: #fff
+    
 }
 
 aside #topmenu ul li span {
@@ -532,7 +530,7 @@ aside #topmenu ul li span {
     font-weight: 800;
     font-style: normal;
     font-size: .813rem;
-    color: #ab67ab
+    color: #E19898
 }
 
 @media only screen and (max-width: 37.5rem) {
