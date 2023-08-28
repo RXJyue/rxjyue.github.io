@@ -360,7 +360,7 @@ aside {
     height: 163px;
     width: 100%;
     bottom: -100%;
-    background: #2f2f33;
+    background: conic-gradient(from 3.1416rad at 53% 120%, #000000, #9198e5);
     z-index: 20;
     box-shadow: inset -10px -1px 15px -9px rgba(0, 0, 0, 0.5);
 }
@@ -530,7 +530,7 @@ aside #topmenu ul li span {
     font-weight: 800;
     font-style: normal;
     font-size: .813rem;
-    color: #E19898
+    color: #fff
 }
 
 @media only screen and (max-width: 37.5rem) {
@@ -546,7 +546,7 @@ aside nav ul {
 }
 
 aside nav ul .counter-menu {
-    color: #ab67ab;
+    color: #fff;
     font-weight: 800;
     margin-right: 4px
 }
@@ -850,7 +850,6 @@ html, body {
 
 .header-site, .header-post, .page-header {
     height: 100%;
-	background: conic-gradient(from 3.1416rad at 53% 120%, #000000, #9198e5);
 }
 
 .header-site .content, .header-post .content, .page-header .content {
