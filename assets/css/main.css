@@ -845,7 +845,8 @@ body.search-overlay:after {
 }
 
 html, body {
-    height: 100%
+    height: 100%;
+	background: conic-gradient(from 3.1416rad at 53% 120%, #000000, #9198e5);
 }
 
 .header-site, .header-post, .page-header {
