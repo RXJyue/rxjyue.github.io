@@ -637,6 +637,19 @@ a.slideButton.slide {
   display: none;
 }
 
+  .text-block {
+    color: black;
+    padding: 1.5em;
+    text-align: left;
+  }
+
+  .text-block b {
+    font-weight: 600;
+  }
+
+  .text-block:visited {
+    color: black;
+  }
 
 .overlay.slide {
     pointer-events: auto;
