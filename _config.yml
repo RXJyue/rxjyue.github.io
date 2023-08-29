@@ -6,7 +6,7 @@ url: "rxjyue.github.io" # for test: remove string 'http://victorvoid.github.io' 
 
 # User settings
 username: Wythe Space
-user_title: Wythe - FrontEnd
+user_title: Wythe
 email: zj107xx@gamil.com
 #twitter_username: loremipsum
 github_username:  loremipsum
@@ -60,12 +60,12 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: wbdxxsdwldthzs72hrs
+    url: https://github.com/RXJyue
+  - name: ABOUND analysis
+    url: https://www.corporate.carrier.com/abound/
+  - name: Air conditioning units remote processing based on LAN & Wi-Fi(PDP processing)
+    url: https://www.se.com/us/en/faqs/FA168406/#:~:text=Modbus%20is%20a%20serial%20communication,serial%20lines%20between%20electronic%20devices.
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
