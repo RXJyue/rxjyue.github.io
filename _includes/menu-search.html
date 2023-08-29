@@ -28,26 +28,16 @@
       <li><span>⌘ blogspace λ </span></li>
       <!--<li><span>* Menu</span></li>-->
 
-      {% for link in section[1] %}
-        {% if link.external %}
-            <li>
-                <a href="{{ link.url }}">{{ link.title }}</a>
-            </li>
-        {% else %}
-            <li>
-                <span class="counter-menu">{{link.key_trigger}}</span>
-                <svg viewBox="0 0 50 50" class="icon-arrow-menu">
-                    <use xlink:href="#icon-right-arrow"></use>
-                </svg>
-                <a key-trigger={{ link.key_trigger }}
-                    href="{{ link.url }}"> {{ link.title }}</a>
-            </li>
-        {% endif %}
-      {% endfor %}
       
     </ul>
 
-    <!--<nav id="navigation" role="navigation">
+    <!--<ul>
+      <li><span>utf-8</span></li>
+      <li><span>web</span></li>
+      <li><span>.html</span></li>
+    </ul>-->
+  </div>
+        <nav id="navigation" role="navigation">
     {% for section in site.links %}
       <ul>
       {% for link in section[1] %}
@@ -68,14 +58,7 @@
       {% endfor %}
       </ul>
     {% endfor %}
-    </nav>-->
-
-    <!--<ul>
-      <li><span>utf-8</span></li>
-      <li><span>web</span></li>
-      <li><span>.html</span></li>
-    </ul>-->
-  </div>
+    </nav>
 
 
 </aside>
