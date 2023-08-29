@@ -29,14 +29,7 @@
       <!--<li><span>* Menu</span></li>-->
     </ul>
 
-    <!--<ul>
-      <li><span>utf-8</span></li>
-      <li><span>web</span></li>
-      <li><span>.html</span></li>
-    </ul>-->
-  </div>
-
-  <nav id="navigation" role="navigation">
+    <nav id="navigation" role="navigation">
     {% for section in site.links %}
       <ul>
       {% for link in section[1] %}
@@ -57,7 +50,16 @@
       {% endfor %}
       </ul>
     {% endfor %}
-  </nav>
+    </nav>
+
+    <!--<ul>
+      <li><span>utf-8</span></li>
+      <li><span>web</span></li>
+      <li><span>.html</span></li>
+    </ul>-->
+  </div>
+
+
 </aside>
 
 <a id="search" class="dosearch">
