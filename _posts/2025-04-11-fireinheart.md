@@ -27,9 +27,8 @@ categories:
 
 
 <figure class="foto-legenda">
-	<img src="{{ "https://p1.itc.cn/q_70/images03/20231207/b7d130d9b6514833a2098f46ee578cc7.jpeg"}}" alt="">
-	<figcaption> <p>blue-wheelchair</p>
-	</figcaption>
+	<img src="https://p1.itc.cn/q_70/images03/20231207/b7d130d9b6514833a2098f46ee578cc7.jpeg" class="img--loaded">
+	
 </figure>
 
 
