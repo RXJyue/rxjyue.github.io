@@ -26,20 +26,23 @@ categories:
 心情是be with you，love with you。
 
 
-<!--<figure class="foto-legenda">
-	<img src="{{ "/assets/img/sharding-gerenciamento-usuarios/Symbols.png"}}" alt="">
-	<figcaption> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat architecto minus sed dolorum debitis iste quae harum, fuga commodi libero voluptatum voluptates nemo, assumenda itaque. Placeat neque voluptatem, veritatis quae.</p>
+<figure class="foto-legenda">
+	<img src="{{ "https://p1.itc.cn/q_70/images03/20231207/b7d130d9b6514833a2098f46ee578cc7.jpeg"}}" alt="">
+	<figcaption> <p>blue-wheelchair</p>
 	</figcaption>
-</figure>-->
+</figure>
 
 
 <a class="grid-block dimensions large-display" href="/block/10462421" style="--width: 201px; --original-rotation: -15deg; --hover-rotation: -4deg; position: absolute; left: 273px; top: 951.75px; touch-action: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Blue_male_budgie.jpg" class="img--loaded">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgGHdb82Pt3ZfV3LLCQduy2kM0E19dM_0pnQ&s" class="img--loaded">
 </a>
 
 
 ### Source
 
-1. <a href="https://en.wikipedia.org/wiki/Budgerigar" target="_blank">Budgerigar</a>
+1. <a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fchair_bot%2F&is_from_rle" target="_blank">chair_bot</a>
+
+
+
 
 
